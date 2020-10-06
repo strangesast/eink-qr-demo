@@ -1,4 +1,4 @@
-'''
+''' send qr data to arduino
 '''
 import time
 import qrcode
